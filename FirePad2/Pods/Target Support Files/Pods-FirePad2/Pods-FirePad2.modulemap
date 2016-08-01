@@ -1,0 +1,6 @@
+framework module Pods_FirePad2 {
+  umbrella header "Pods-FirePad2-umbrella.h"
+
+  export *
+  module * { export * }
+}
